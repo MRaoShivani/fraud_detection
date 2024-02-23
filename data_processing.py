@@ -9,3 +9,6 @@ print(f' the result is {res}')
 
 def new_function():
     pass
+
+def second_func():
+    pass
