@@ -5,3 +5,10 @@ def sum(a,b):
 
 res = sum(3,4)
 print(f' the result is {res}')
+
+
+def new_function():
+    pass
+
+def second_func():
+    pass
